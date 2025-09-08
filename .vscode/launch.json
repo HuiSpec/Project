@@ -1,0 +1,25 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "cwd": "${workspaceRoot}",
+            "executable": "./build/Project.elf",
+            "name": "Debug with OpenOCD",
+            "request": "launch",
+            "type": "cortex-debug",
+            "showDevDebugOutput": "none",
+            "servertype": "openocd",
+            "device": "stm32f103c8t6",
+            "configFiles": [
+                "./debug/stlink-dap.cfg",
+                "./debug/stm32f1x.cfg",
+            ],
+            "svdFile": "./debug/STM32F103.svd"
+        },
+        
+    ]
+}

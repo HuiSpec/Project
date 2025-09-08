@@ -1,0 +1,192 @@
+[
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Code/Src/GPS.c.obj -c /home/huispec/Milk/Project01/Code/Src/GPS.c",
+  "file": "/home/huispec/Milk/Project01/Code/Src/GPS.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Code/Src/GPS_Usart.c.obj -c /home/huispec/Milk/Project01/Code/Src/GPS_Usart.c",
+  "file": "/home/huispec/Milk/Project01/Code/Src/GPS_Usart.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Code/Src/I2COLED.c.obj -c /home/huispec/Milk/Project01/Code/Src/I2COLED.c",
+  "file": "/home/huispec/Milk/Project01/Code/Src/I2COLED.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Code/Src/LED.c.obj -c /home/huispec/Milk/Project01/Code/Src/LED.c",
+  "file": "/home/huispec/Milk/Project01/Code/Src/LED.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Code/Src/NBIOT_Usart.c.obj -c /home/huispec/Milk/Project01/Code/Src/NBIOT_Usart.c",
+  "file": "/home/huispec/Milk/Project01/Code/Src/NBIOT_Usart.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Code/Src/OLED.c.obj -c /home/huispec/Milk/Project01/Code/Src/OLED.c",
+  "file": "/home/huispec/Milk/Project01/Code/Src/OLED.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Code/Src/OneWrite.c.obj -c /home/huispec/Milk/Project01/Code/Src/OneWrite.c",
+  "file": "/home/huispec/Milk/Project01/Code/Src/OneWrite.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Code/Src/Usart.c.obj -c /home/huispec/Milk/Project01/Code/Src/Usart.c",
+  "file": "/home/huispec/Milk/Project01/Code/Src/Usart.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Code/Src/nbiot.c.obj -c /home/huispec/Milk/Project01/Code/Src/nbiot.c",
+  "file": "/home/huispec/Milk/Project01/Code/Src/nbiot.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/misc.c.obj -c /home/huispec/Milk/Project01/Lib/Src/misc.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/misc.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_adc.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_adc.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_adc.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_bkp.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_bkp.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_bkp.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_can.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_can.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_can.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_cec.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_cec.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_cec.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_crc.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_crc.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_crc.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_dac.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_dac.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_dac.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_dbgmcu.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_dbgmcu.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_dbgmcu.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_dma.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_dma.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_dma.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_exti.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_exti.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_exti.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_flash.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_flash.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_flash.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_fsmc.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_fsmc.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_fsmc.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_gpio.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_gpio.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_gpio.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_i2c.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_i2c.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_i2c.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_iwdg.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_iwdg.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_iwdg.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_pwr.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_pwr.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_pwr.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_rcc.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_rcc.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_rcc.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_rtc.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_rtc.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_rtc.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_sdio.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_sdio.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_sdio.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_spi.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_spi.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_spi.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_tim.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_tim.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_tim.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_usart.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_usart.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_usart.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Lib/Src/stm32f10x_wwdg.c.obj -c /home/huispec/Milk/Project01/Lib/Src/stm32f10x_wwdg.c",
+  "file": "/home/huispec/Milk/Project01/Lib/Src/stm32f10x_wwdg.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/Project.elf.dir/Project/Code-Cmake/startup_stm32f10x_md.s.obj -c /home/huispec/Milk/Project01/Project/Code-Cmake/startup_stm32f10x_md.s",
+  "file": "/home/huispec/Milk/Project01/Project/Code-Cmake/startup_stm32f10x_md.s"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Start/Src/core_cm3.c.obj -c /home/huispec/Milk/Project01/Start/Src/core_cm3.c",
+  "file": "/home/huispec/Milk/Project01/Start/Src/core_cm3.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Start/Src/stm32f10x_it.c.obj -c /home/huispec/Milk/Project01/Start/Src/stm32f10x_it.c",
+  "file": "/home/huispec/Milk/Project01/Start/Src/stm32f10x_it.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/Start/Src/system_stm32f10x.c.obj -c /home/huispec/Milk/Project01/Start/Src/system_stm32f10x.c",
+  "file": "/home/huispec/Milk/Project01/Start/Src/system_stm32f10x.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/System/Src/Delay.c.obj -c /home/huispec/Milk/Project01/System/Src/Delay.c",
+  "file": "/home/huispec/Milk/Project01/System/Src/Delay.c"
+},
+{
+  "directory": "/home/huispec/Milk/Project01/build",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -I/home/huispec/Milk/Project01/./Lib/Inc -I/home/huispec/Milk/Project01/./User -I/home/huispec/Milk/Project01/./Start/Inc -I/home/huispec/Milk/Project01/./System/Inc -I/home/huispec/Milk/Project01/./Code/Inc -I/usr/include -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/Project.elf.dir/User/main.c.obj -c /home/huispec/Milk/Project01/User/main.c",
+  "file": "/home/huispec/Milk/Project01/User/main.c"
+}
+]
